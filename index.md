@@ -11,7 +11,7 @@
 ### nodejs
 这部分主要记录nodejs后台服务应用相关
 
-1.[异步处理](https://github.com/zarawu/zarawu.github.io/blob/master/nodejs/about_asyc.md)
+1.[异步处理](/nodejs/about_asyc.md)
 ### python
 
 
