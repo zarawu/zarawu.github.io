@@ -17,7 +17,8 @@
 9. 网络编程
 10. 构建Web应用
 11. 进程
-12. NPM（搭建局域仓库）
+12. NPM
+13. redis
 
 ### >Javascript
 这部分主要记录ES5，ES6使用过程中的一些所得。
@@ -28,5 +29,5 @@
 
 ### >other tools
 - [Markdown]()
-
+- [curl]()
 ### >随笔
