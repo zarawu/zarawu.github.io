@@ -25,9 +25,16 @@
 
 ### >Python
 
-### >Ruby
+### >English
 
-### >other tools
-- [Markdown]()
-- [curl]()
+### >ReadingNotes
+1. [人人都是产品经理](/ReadingNotes/ab_everyoneismanager.md)
+2. [结网](/ReadingNotes/ab_netting.md)
+
+### >othertools
+- [Markdown](/othertools/markdown.md)
+- [curl](/othertools/curl.md)
+- [pm2](/othertools/curl.md)
+
 ### >随笔
+1. [关于茶](/essay/tea.md)
